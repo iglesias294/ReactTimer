@@ -9,7 +9,7 @@ var Nav = () => {
         <div className="top-bar-left">
 
           <ul className="menu">
-            <li className="menu-text">ReactWeather</li>
+            <li className="menu-text">ReactTimer</li>
             <li>
               <IndexLink to="/" activeClassName="active-link">Timer</IndexLink>
             </li>
